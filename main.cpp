@@ -1,3 +1,5 @@
+//Daniel Andres Urrego Orjuela 20211673121
+//Giovanni Enrique Tabima Galeano 20221673029
 #include "mbed.h"
 #include "Display.h"
 #include "I2C.h"
